@@ -1,5 +1,7 @@
 # Awesome Opus 5.5 Videos
 
+**English** · [Tiếng Việt](README.vi.md)
+
 <a href="https://skillry.dev/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.skillry.dev/opus-5-5/_readme/mosaic.fc36404ce3.webp" alt="A wall of videos made with Claude Opus 5.5: games, 3D scenes, explainers and motion graphics" width="100%"></a>
 
 Viral videos people made with **Claude Opus 5.5**, each with the prompt the creator shared (or, where no prompt was published, their original post).
